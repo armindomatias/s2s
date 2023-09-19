@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  tutor: one
+  subject: one
+  accepted: false
+  student_objective: MyString
+  first_session_on: 2023-09-19
+
+two:
+  student: two
+  tutor: two
+  subject: two
+  accepted: false
+  student_objective: MyString
+  first_session_on: 2023-09-19

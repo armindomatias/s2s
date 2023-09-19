@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tutor: one
+  group_1: 1
+  group_2: 1
+  group_3: 1
+  group_4_more: 1
+  group_1_plus: 1
+  group_2_plus: 1
+  group_3_plus: 1
+  group_4_more_plus: 1
+
+two:
+  tutor: two
+  group_1: 1
+  group_2: 1
+  group_3: 1
+  group_4_more: 1
+  group_1_plus: 1
+  group_2_plus: 1
+  group_3_plus: 1
+  group_4_more_plus: 1

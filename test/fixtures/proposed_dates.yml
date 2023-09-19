@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  match: one
+  proposed_date_1: 2023-09-19
+  proposed_date_2: 2023-09-19
+  proposed_date_3: 2023-09-19
+
+two:
+  match: two
+  proposed_date_1: 2023-09-19
+  proposed_date_2: 2023-09-19
+  proposed_date_3: 2023-09-19

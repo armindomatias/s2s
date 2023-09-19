@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  student: one
+  plus: false
+  starting_on: 2023-09-19
+  expiring_on: 2023-09-19
+
+two:
+  student: two
+  plus: false
+  starting_on: 2023-09-19
+  expiring_on: 2023-09-19

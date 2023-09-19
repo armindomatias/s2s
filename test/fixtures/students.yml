@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  university: one
+  starting_year_univ: 1
+  course: MyString
+
+two:
+  user: two
+  university: two
+  starting_year_univ: 1
+  course: MyString
